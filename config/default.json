@@ -1,0 +1,158 @@
+{
+    "psx" : {
+        "platformName" : "Sony Playstation",
+        "theGamesDB" : {
+            "platformName" : "Sony Playstation"
+        },
+        "mobyGames" : {
+            "platformId" : "6"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "22"
+        }
+    },
+    "psp" : {
+        "platformName" : "Sony PSP",
+        "theGamesDB" : {
+            "platformName" : "Sony PSP"
+        },
+        "mobyGames" : {
+            "platformId" : "46"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "18"
+        }
+    },
+    "gba" : {
+        "platformName" : "Game Boy Advance",
+        "theGamesDB" : {
+            "platformName" : "Nintendo Game Boy Advance"
+        },
+        "mobyGames" : {
+            "platformId" : "12"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "4"
+        }
+    },
+    "mastersystem" : {
+        "platformName" : "Sega Master System",
+        "theGamesDB" : {
+            "platformName" : "Sega Master System"
+        },
+        "mobyGames" : {
+            "platformId" : "26"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "8"
+        }
+    },
+    "megadrive" : {
+        "platformName" : "Sega Mega Drive",
+        "theGamesDB" : {
+            "platformName" : "Sega Mega Drive"
+        },
+        "mobyGames" : {
+            "platformId" : "16"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "6"
+        }
+    },
+    "gb" : {
+        "platformName" : "Nintendo Game Boy",
+        "theGamesDB" : {
+            "platformName" : "Nintendo Game Boy"
+        },
+        "mobyGames" : {
+            "platformId" : "10"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "3"
+        }
+    },
+    "nes" : {
+        "platformName" : "Nintendo Entertainment System",
+        "theGamesDB" : {
+            "platformName" : "Nintendo Entertainment System (NES)"
+        },
+        "mobyGames" : {
+            "platformId" : "22"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "21"
+        }
+    },
+    "snes" : {
+        "platformName" : "Super Nintendo",
+        "theGamesDB" : {
+            "platformName" : "Super Nintendo (SNES)"
+        },
+        "mobyGames" : {
+            "platformId" : "15"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "9"
+        }
+    },
+    "n64" : {
+        "platformName" : "Nintendo 64",
+        "theGamesDB" : {
+            "platformName" : "Nintendo 64"
+        },
+        "mobyGames" : {
+            "platformId" : "3"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "43"
+        }
+    },
+    "arcade" : {
+        "platformName" : "Arcade",
+        "theGamesDB" : {
+            "platformName" : "Arcade"
+        },
+        "mobyGames" : {
+            "platformId" : "143"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "84"
+        }
+    },
+    "dreamcast" : {
+        "platformName" : "Sega Dreamcast",
+        "theGamesDB" : {
+            "platformName" : "Sega Dreamcast"
+        },
+        "mobyGames" : {
+            "platformId" : "8"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "37"
+        }
+    },
+    "psx" : {
+        "platformName" : "Sony Playstation",
+        "theGamesDB" : {
+            "platformName" : "Sony Playstation"
+        },
+        "mobyGames" : {
+            "platformId" : "10"
+        },
+        "giantBomb" : {
+            "key" : "KEY",
+            "platformId" : "22"
+        }
+    }
+}

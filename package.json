@@ -1,0 +1,26 @@
+{
+  "name": "NodeJsGamelistEditor",
+  "version": "0.0.1",
+  "description": "RetroPie Gamelist.xml editor on NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js",
+    "grunt": "grunt w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauruco/NodeJsGamelistEditor.git"
+  },
+  "author": "mauruco@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauruco/NodeJsGamelistEditor/issues"
+  },
+  "homepage": "https://github.com/mauruco/NodeJsGamelistEditor#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.1.0"
+  }
+}
