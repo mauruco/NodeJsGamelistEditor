@@ -8,7 +8,7 @@ function watch(grunt){
             },
             dist: {
                 files: {
-                    'templates/css/app.css': 'assets/sass/app.scss'
+                    'public/css/app.css': 'src/sass/app.scss'
                 }
             }
         },
@@ -20,7 +20,7 @@ function watch(grunt){
             },
             target: {
                 files: {
-                    'templates/css/app.css': ['templates/css/normalize.css', 'templates/css/app.css']
+                    'public/css/app.css': ['public/css/normalize.css', 'public/css/app.css']
                 }
             }
         },
@@ -28,7 +28,7 @@ function watch(grunt){
         watch : {
           dist : {
             files : [
-              'assets/sass/**/*'
+              'src/sass/**/*'
             ],
 
             tasks : ['sass', 'cssmin']

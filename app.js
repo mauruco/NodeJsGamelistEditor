@@ -1,3 +1,5 @@
+// var app = require('./bin/www/express');
+
 // var Tgdb = require('./bases/theGamesDB');
 // var TgdbGame = new Tgdb('psp', 'bomberman', 80, 10000);
 // var TgdbPromise = TgdbGame.request();
